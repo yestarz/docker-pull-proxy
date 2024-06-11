@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-chengdu.aliyuncs.com/yestarz/home-assistant:2024.6
+redis:6 registry.cn-chengdu.aliyuncs.com/yestarz/redis:6
