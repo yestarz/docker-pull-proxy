@@ -1,1 +1,1 @@
-redis:6 registry.cn-chengdu.aliyuncs.com/yestarz/redis:6
+mysql:5.7 registry.cn-chengdu.aliyuncs.com/yestarz/mysql:5.7
