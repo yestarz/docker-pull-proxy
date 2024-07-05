@@ -1,1 +1,1 @@
-mysql:5.7 registry.cn-chengdu.aliyuncs.com/yestarz/mysql:5.7
+vaultwarden/server:1.30.5 registry.cn-chengdu.aliyuncs.com/yestarz/vaultwarden:1.30.5
