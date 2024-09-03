@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server-s6:1 registry.cn-chengdu.aliyuncs.com/yestarz/rustdesk-server-s6:1
+keyurbhole/flutter_web_desk:latest registry.cn-chengdu.aliyuncs.com/yestarz/flutter_web_desk:latest
