@@ -1,2 +1,2 @@
-keyurbhole/flutter_web_desk:latest registry.cn-chengdu.aliyuncs.com/yestarz/flutter_web_desk:latest
+keyurbhole/flutter_web_desk:v1.0.0 registry.cn-chengdu.aliyuncs.com/yestarz/flutter_web_desk:v1.0.0
   
