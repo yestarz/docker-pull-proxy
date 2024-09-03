@@ -1,1 +1,2 @@
-rustdesk/rustdesk-server:1.1.11 registry.cn-chengdu.aliyuncs.com/yestarz/rustdesk-server:1.1.11
+rustdesk/rustdesk-server-s6:1.1.11-1 registry.cn-chengdu.aliyuncs.com/yestarz/rustdesk-server-s6:1.1.11-1
+
