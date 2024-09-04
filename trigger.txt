@@ -1,2 +1,1 @@
-keyurbhole/flutter_web_desk:v1.0.0 registry.cn-chengdu.aliyuncs.com/yestarz/flutter_web_desk:v1.0.0
-  
+halohub/halo:2.19 registry.cn-chengdu.aliyuncs.com/yestarz/halo:2.19
